@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "xfadmin",
+    "packageName": "eu.els.sie.xmlfirst.admin",
+    "packageFolder": "eu/els/sie/xmlfirst/admin",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "169a34644d86c465771232f8cb19aa003cf2899a",
+    "testFrameworks": [
+      "protractor"
+    ]
+  }
+}
